@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+flask
+django
+djangorestframework
+requests
